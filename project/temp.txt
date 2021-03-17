@@ -1,3 +1,4 @@
 This is the first commit from master
 Some more content added using some more commits
 I also have done some other work now
+Working more on that new-feature
