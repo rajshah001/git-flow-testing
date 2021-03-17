@@ -1,3 +1,8 @@
 This is the first commit from master
 Some more content added using some more commits
+<<<<<<< HEAD
+Now Raj has worked on some feature and he has pushed to his feature branch
+some more work done on rajs-feature branch
+=======
 I am new line after feature extraction
+>>>>>>> ee0573fd7bf9144bf2193922316f566d7f1db8c8
